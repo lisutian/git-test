@@ -10,5 +10,9 @@ public class FirstClass {
         System.out.println("hello git_test_project");
 
     }
+    public  void test(){
+        int i =0;
+        i+=10;
+    }
 
 }
